@@ -14,6 +14,7 @@ BibTex:
   howpublished = {\url{https://github.com/Ariestootl/MPGELU}}
 }
 
+_**ALL .PY/HELPER FILES ARE LOCATED IN THE https://github.com/Ariestootl/MPGELU REPO**_
 
 📝 **Original Formulation:**
 
